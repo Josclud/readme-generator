@@ -1,17 +1,17 @@
-# sdafs 
+# Joseph App 
  
-  Description: f 
+  Description: This is a superfun and exciting app 
  
-  Information: s 
+  Information: more information about this app can be found on the home page 
  
-  License: Boost Software License 1.0 
+  License: The Unlicense 
 
-  Contributors: fs 
+  Contributors: joseph wong and joseph ludwiczak 
 
-  Instructions: s 
+  Instructions: you can find this on google 
 
   Questions, please contact me:  
 
-  Github user name: fs 
+  Github user name: josclud 
  
-  Email: fs
+  Email: josclud@gmail.com
