@@ -1,17 +1,17 @@
-# fg 
+# my fun app 
  
-  Description about the app: gf 
+  Description: this is an app that is super fun 
  
-  Information on this app:  
+  Information: this app it a great way to spend your time 
  
-  License: mit license 
+  License: Mozilla Public License 2.0 
 
-  Contributors:  
+  Contributors: Joseph Wong and Joseph Ludwiczak 
 
-  Instructions:  
+  Instructions: you can find that on google 
 
   Questions, please contact me:  
 
-  Github user name:  
+  Github user name: Josclud 
  
-  Email: 
+  Email: Josclud@gmail.com
