@@ -8,17 +8,17 @@ const questions = [
   {
     type: 'input',
     name: 'title',
-    message: 'What is the title of your app?'
+    message: 'What is the title of the app?'
   },
   {
     type: 'input',
     name: 'description',
-    message: 'Write a short description about you app?'
+    message: 'Write a short description about the app?'
   },
   {
     type: 'input',
     name: 'installation',
-    message: 'How to install your app?'
+    message: 'How to install the app?'
   },
   {
     type: 'list',
@@ -29,17 +29,17 @@ const questions = [
   {
     type: 'input',
     name: 'usageInformation',
-    message: 'Information about your app?'
+    message: 'Information about the app?'
   },
   {
     type: 'input',
     name: 'contribution',
-    message: 'Who contributed of your app?'
+    message: 'Who contributed of the app?'
   },
   {
     type: 'input',
     name: 'testInstructions',
-    message: 'instructions on how to test your app?'
+    message: 'instructions on how to test the app?'
   },
   {
     type: 'input',
