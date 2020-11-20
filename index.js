@@ -21,6 +21,15 @@ const questions = [
     message: 'How to install your app?'
   },
   {
+    type: 'list',
+    name: 'license',
+    message: 'What license used for your app?',
+    choices: [ 'Boost Software License 1.0', 'MIT License', 'The Unlicense', 'Mozilla Public License 2.0'],
+    filter: function (val) {
+      return val.toLowerCase();
+    }
+  },
+  {
     type: 'input',
     name: 'usageInformation',
     message: 'Information about your app?'

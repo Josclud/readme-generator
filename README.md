@@ -1,12 +1,17 @@
-# hello kitty 
+# h 
  
-  Description about the app: here is an app about an app 
- Information on this app: google it somemore  
+  Description about the app:  
  
-  Contributors: me and my self 
+  Information on this app: h 
+ 
+  License: boost software license 1.0 
 
-  Instructions: google it again  
+  Contributors: h 
+
+  Instructions: h 
+
+  Questions, please contact me:  
+
+  Github user name: h 
  
-  Github user name: joclud 
- 
-  Email: joclud@gmail.com
+  Email: h
