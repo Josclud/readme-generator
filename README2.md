@@ -1,23 +1,23 @@
-# google me 
+#  
  
   ## Table of contents
   [Description](#description)
-  # Description: its just google 
+  # Description:  
  
   [Information](#information)
-  # Information: about me 
+  # Information:  
  
   [License](#license)
-  # License: The Unlicense 
+  # License: Boost Software License 1.0 
 
   [Contributors](#contributors)
-  # Contributors: me 
+  # Contributors:  
 
   [Instructions](#instructions)
-  # Instructions: google it again 
+  # Instructions:  
 
   Questions, please contact me:  
 
-  Github user name: josclud 
+  Github user name:  
  
-  Email: josclud@gmail.com
+  Email: 
