@@ -8,12 +8,37 @@ const questions = [
   {
     type: 'input',
     name: 'title',
-    message: 'What is the Title of your app?'
+    message: 'What is the title of your app?'
+  },
+  {
+    type: 'input',
+    name: 'description',
+    message: 'Write a short description about you app?'
+  },
+  {
+    type: 'input',
+    name: 'installation',
+    message: 'How to install your app?'
+  },
+  {
+    type: 'input',
+    name: 'usageInformation',
+    message: 'Information about your app?'
+  },
+  {
+    type: 'input',
+    name: 'contribution',
+    message: 'Who contributed of your app?'
+  },
+  {
+    type: 'input',
+    name: 'testInstructions',
+    message: 'instructions on how to test your app?'
   },
   {
     type: 'input',
     name: 'github',
-    message: 'What is your GitHub username?'
+    message: 'What is your gitHub username?'
   },
   {
     type: 'input',
