@@ -25,9 +25,6 @@ const questions = [
     name: 'license',
     message: 'What license used for your app?',
     choices: [ 'Boost Software License 1.0', 'MIT License', 'The Unlicense', 'Mozilla Public License 2.0'],
-    filter: function (val) {
-      return val.toLowerCase();
-    }
   },
   {
     type: 'input',
@@ -47,7 +44,7 @@ const questions = [
   {
     type: 'input',
     name: 'github',
-    message: 'What is your gitHub username?'
+    message: 'What is your the link to your git hub?'
   },
   {
     type: 'input',

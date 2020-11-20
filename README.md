@@ -1,17 +1,17 @@
-# h 
+# fg 
  
-  Description about the app:  
+  Description about the app: gf 
  
-  Information on this app: h 
+  Information on this app:  
  
-  License: boost software license 1.0 
+  License: mit license 
 
-  Contributors: h 
+  Contributors:  
 
-  Instructions: h 
+  Instructions:  
 
   Questions, please contact me:  
 
-  Github user name: h 
+  Github user name:  
  
-  Email: h
+  Email: 
