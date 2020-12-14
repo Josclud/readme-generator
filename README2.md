@@ -1,23 +1,23 @@
-#  
+# js 
  
   ## Table of contents
   [Description](#description)
-  # Description:  
+  # Description: js 
  
   [Information](#information)
-  # Information:  
+  # Information: sdf 
  
   [License](#license)
-  # License: Boost Software License 1.0 
+  # License: Mozilla Public License 2.0 
 
   [Contributors](#contributors)
-  # Contributors:  
+  # Contributors: sd 
 
   [Instructions](#instructions)
   # Instructions:  
 
   Questions, please contact me:  
 
-  Github user name:  
+  Github user name: f 
  
   Email: 
